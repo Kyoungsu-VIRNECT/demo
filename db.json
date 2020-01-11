@@ -1,20 +1,7 @@
 {
   "gets": [
-    {  "itemList" : [{
-        "itemId" : "item01",
-        "itemName" : "모나미153",
-        "stockQty" : 10,
-        containerInfo : [
-                              {
-                              "containerBoxId":"box01",
-                              "containerBoxName" : "볼펜박스",
-                              "locId":"rack01Cell01",
-                              "locName" : "1층 1열 1행",
-                              "stockQty" : 5
-                              }
-        ]
-    }]}
-    ],
+    {  "itemList" : 1 }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
