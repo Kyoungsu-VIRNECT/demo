@@ -9,9 +9,9 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "get": [
-    { "itemList" : [{
+    { "itemList" : {
       "itemId" : "item01",
-      "itemName" : "모나미153" ]}
+      "itemName" : "모나미153" }
     }
   ],
   "profile": {
