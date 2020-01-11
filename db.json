@@ -9,20 +9,18 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "get": {
-    itemList : [{
+    itemList : {
         "itemId" : "item01",
         "itemName" : "모나미153",
         "stockQty" : 10,
-        containerInfo : [
-                              {
+        containerInfo : {
                               "containerBoxId":"box01",
                               "containerBoxName" : "볼펜박스",
                               "locId":"rack01Cell01",
                               "locName" : "1층 1열 1행",
                               "stockQty" : 5
                               }
-        ]
-    }]
+    }
 },
   "profile": {
     "name": "typicode"
