@@ -8,8 +8,11 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "hello": [
-    { "name": "sam", "Id": 1}
+  "get": [
+    { "itemList" : [{
+      "itemId" : "item01",
+      "itemName" : "모나미153" ]}
+    }
   ],
   "profile": {
     "name": "typicode"
